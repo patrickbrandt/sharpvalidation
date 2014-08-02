@@ -1,7 +1,7 @@
 SharpValidation
 ===============
 
-Sharp Validation is a very simple and extensible validation library.
+SharpValidation is a very simple and extensible validation library.
 
 Example Usage:
 
